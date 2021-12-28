@@ -1,1 +1,1 @@
-# stancedetection.github.io
+# stancedetection
